@@ -5,6 +5,3 @@ arr.extend([60,70,20,20,30])
 arr.pop()
 print(arr)
 print(arr.count(20))
-
-
-
