@@ -16,6 +16,7 @@ head = node1
 
 
 currentNode = head
+#traversing
 
 while currentNode :
     print(currentNode.data ,end=" =>")
